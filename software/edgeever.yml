@@ -1,0 +1,11 @@
+name: EdgeEver
+website_url: https://edgeever.com/
+description: AI-native knowledge base and note-taking app with instant multi-device sync, visual diagrams, and web clipper (alternative to Evernote, Obsidian).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/tianma-if/edgeever
